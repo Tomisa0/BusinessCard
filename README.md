@@ -1,6 +1,5 @@
-# Anima Project
 
-Welcome!
+# Welcome!
 
 ## Getting started
 
